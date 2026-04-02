@@ -83,7 +83,7 @@ export default function LandingPage() {
           tags: [
             "Furniture",
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/full-shot-smiley-woman-kid-kitchen_23-2149638015.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/full-shot-smiley-woman-kid-kitchen_23-2149638015.jpg?_wi=1",
         },
         {
           id: "s2",
@@ -132,7 +132,7 @@ export default function LandingPage() {
         },
       ]}
       mediaAnimation="blur-reveal"
-      imageSrc="http://img.b2bpic.net/free-photo/full-shot-smiley-woman-kid-kitchen_23-2149638015.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/full-shot-smiley-woman-kid-kitchen_23-2149638015.jpg?_wi=2"
       imageAlt="Precision woodworking process"
     />
   </div>
